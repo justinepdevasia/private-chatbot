@@ -1,0 +1,6 @@
+haystack-ai
+qdrant-client
+qdrant-haystack
+fastembed-haystack
+requests
+python-dotenv
